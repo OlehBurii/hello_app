@@ -2,4 +2,4 @@
 
 ## "hello, world!"
 
-This is the first  app;ication for the [*Ruby on Rails Tutorial*](https://www.railstutorial.org/) by [Oleh]. Hello, wolrd!
+This is the first  application for the [*Ruby on Rails Tutorial*](https://www.railstutorial.org/) by [Oleh Michigan]. Hello, wolrd!
